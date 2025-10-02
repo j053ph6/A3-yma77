@@ -71,24 +71,24 @@ For each of your visualizations, briefly describe why you chose the specific vis
 
 ### 4. Submission Instructions
 
-- **Your submission should include these**:
+**Your submission should include these**:
   1. **Website Link**: 
-     - You will create and deliver your visualizations on your website using **HTML, CSS, and JavaScript**. You can explore and create your visualizations in **Observable**. We suggest that you add it to the website you created for your second assignment. Simply create a new page in that repository.
-     - Submit the **link** to the webpage you have created on your website (no link to the repository itself).
+    - You will create and deliver your visualizations on your website using **HTML, CSS, and JavaScript**. You can explore and create your visualizations in **Observable**. We suggest that you add it to the website you created for your second assignment. Simply create a new page in that repository.
+    - Submit the **link** to the webpage you have created on your website (no link to the repository itself).
   2. **PDF Report**:
-     - Submit a PDF document that describes your design choices for each visualization. Reflect on the decisions you made, based on the lectures and principles covered in class.
-     - Your reflection must include these:
-       - Why did you choose this specific prompt? What was interesting?
-       - What do you understand from the visualization? Are there any patterns/insights?
-       - Did you face any challenges while creating this visualization?  
-     - The PDF should include the rationale behind your design choices.
-     - **PDF Report:** `IAT355_Assignment3_FirstNameLastName.pdf`
+    - Submit a PDF document that describes your design choices for each visualization. Reflect on the decisions you made, based on the lectures and principles covered in class.
+    - Your reflection must include these:
+      - Why did you choose this specific prompt? What was interesting?
+      - What do you understand from the visualization? Are there any patterns/insights?
+      - Did you face any challenges while creating this visualization?  
+      - The PDF should include the rationale behind your design choices.
+    - **PDF Report:** `IAT355_Assignment3_FirstNameLastName.pdf`
   3. **Video Report:**
-     - Submit a short video (no longer than 6 minutes) explaining your findings in this project:
-       - Walk through your visualizations to show your final work.
-       - Explain how you created each visualization, including any challenges you encountered.
-       - Describe the key insights you learned about the given dataset from completing this assignment.
-       - This video presentation does not have to be anything fancy. **Make sure you're audible**.
+    - Submit a short video (no longer than 6 minutes) explaining your findings in this project:
+      - Walk through your visualizations to show your final work.
+      - Explain how you created each visualization, including any challenges you encountered.
+      - Describe the key insights you learned about the given dataset from completing this assignment.
+      - This video presentation does not have to be anything fancy. **Make sure you're audible**.
     - **Note:** This is to ensure you have understood what you have done along the way. You might ask AI for help, but we don't want you to just copy-paste everything. 
      
 
