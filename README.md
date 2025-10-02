@@ -11,7 +11,7 @@ In this assignment, you will create data visualizations using **Vega-Lite**. You
 - You will use the **`dataset/videogames_wide.csv`** and **`dataset/videogames_long.csv`** for this assignment. Both datasets contain the same data, but one of them makes your life easier. Choose the dataset that best suits your needs.
 
 
-### There are three main parts:
+### What you are expected do to:
 
 1. **Describe the dataset**: Summarize the data and variables to understand the context of the visualizations.
 2. **Create visualizations and embed them in your website**: Design multiple visualizations to explore patterns in the data.
@@ -36,9 +36,16 @@ The dataset is a collection of video game sales data, with the following columns
 ### 1. Describe the Data
 For each variable in the dataset, describe the **data type** and provide a summary of the key statistics:
 - Data types include categories such as numerical, categorical, ordinal, etc.
-- Summarize insights like the average global sales, most frequent genres, most popular platforms, and anything else you find significant.
-
-
+- Summarize insights like the average global sales, most frequent genres, most popular platforms, and anything else you find significant. A suggested pattern is what comes below:
+  - Central Tendency:
+    - Mean: The average of the numbers. 
+    - Median: The middle number in a sorted list; less affected by extreme values. 
+    - Mode: The most frequently occurring number(s). 
+  - Spread/Variability:
+    - Range: The difference between the highest and lowest values. 
+    - Standard Deviation: Measures how spread out the data is from the mean. 
+  - **NOTE:** You are not limited to following this pattern, and we encourage you to have your own type of storytelling. For instance, you can write about how the dataset was different from or aligned with your expectations or intuition.
+ 
 ### 2. Create 4 Visual Explorations Using Vega-Lite
 
 - **Visualization 1**: **Global Sales by Genre and Platform**
@@ -56,20 +63,33 @@ For each variable in the dataset, describe the **data type** and provide a summa
 - **Visualization 4**: **Tell Us a Visual Story**
   - Now that you’ve explored the dataset, create a visualization that highlights a pattern or story you find interesting.
   - **Reflection**: This is intentionally open-ended. Focus on a specific area that piques your interest, such as sales trends in Japan, a focus on specific publishers, or how certain genres perform across regions. Feel free to get creative!
+ 
+- **Note:** For each visualization, work on at least two prompts.
 
  ### 3. Describe Your Design Choices
-For each of your visualizations, briefly describe why you chose the specific visualization type, how it helps convey the data effectively, and any interesting design choices you made.
+For each of your visualizations, briefly describe why you chose the specific visualization type (what made you curious/interested), how it helps convey the data effectively, and any interesting design choices you made.
 
 ### 4. Submission Instructions
 
-- **You will make two submissions**:
+- **Your submission should include these**:
   1. **Website Link**: 
-     - You will create and deliver your visualizations on your website using **HTML, CSS, and JavaScript**. You can explore and create your visualizations in **Observable**.
-     - Submit the **link** to your website.
+     - You will create and deliver your visualizations on your website using **HTML, CSS, and JavaScript**. You can explore and create your visualizations in **Observable**. We suggest that you add it to the website you created for your second assignment. Simply create a new page in that repository.
+     - Submit the **link** to the webpage you have created on your website (no link to the repository itself).
   2. **PDF Report**:
      - Submit a PDF document that describes your design choices for each visualization. Reflect on the decisions you made, based on the lectures and principles covered in class.
+     - Your reflection must include these:
+       - Why did you choose this specific prompt? What was interesting?
+       - What do you understand from the visualization? Are there any patterns/insights?
+       - Did you face any challenges while creating this visualization?  
      - The PDF should include the rationale behind your design choices.
      - **PDF Report:** `IAT355_Assignment3_FirstNameLastName.pdf`
+  3. **Video Report:**
+     - Submit a short video (no longer than 6 minutes) explaining your findings in this project:
+       - Walk through your visualizations to show your final work.
+       - Explain how you created each visualization, including any challenges you encountered.
+       - Describe the key insights you learned about the given dataset from completing this assignment.
+       - This video presentation does not have to be anything fancy. **Make sure you're audible**.
+    - **Note:** This is to ensure you have understood what you have done along the way. You might ask AI for help, but we don't want you to just copy-paste everything. 
      
 
 ### Tips:
